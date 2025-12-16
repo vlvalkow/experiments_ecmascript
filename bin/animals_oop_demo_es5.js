@@ -1,9 +1,9 @@
 /**
  * =========================================================
  * DEMONSTRATION: ES5 → ES6+ → TypeScript
- * Project: "User Data Fetcher"
- * This file walks through ES6+ version of the code.
- * Shows how to add type safety to async code.
+ * Project: "Animals OOP Demo"
+ * This file walks through ES5 version of the code.
+ * Shows how to implement OOP concepts using prototypes.
  * =========================================================
  */
 

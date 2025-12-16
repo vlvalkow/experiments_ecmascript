@@ -1,3 +1,12 @@
+/**
+ * =========================================================
+ * DEMONSTRATION: ES5 → ES6+ → TypeScript
+ * Project: "Animals OOP Demo"
+ * This file walks through TypeScript version of the code.
+ * Shows OOP concepts using classes and adding type safety.
+ * =========================================================
+ */
+
 class Animal {
   name: string;
 
